@@ -36,3 +36,4 @@ function displaySum (sum) {
 
 let arr = ["fortnite", "Minecraft","Destiny", "LoL"]
 
+arr.forEach((item) => console.log(item))
