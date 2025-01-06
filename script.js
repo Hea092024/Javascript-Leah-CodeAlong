@@ -33,3 +33,6 @@ function displaySum (sum) {
 // multilinje 
 // streng.`;
 // console.log(message);
+
+let arr = ["fortnite", "Minecraft","Destiny", "LoL"]
+
