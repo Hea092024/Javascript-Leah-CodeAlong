@@ -26,3 +26,10 @@ function addSum(one, two, callback){
 function displaySum (sum) {
     console.log(`til sammen er det : ${sum}`)
 }
+
+// let message = `Dette 
+// er 
+// en 
+// multilinje 
+// streng.`;
+// console.log(message);
