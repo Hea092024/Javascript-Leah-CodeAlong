@@ -1,8 +1,8 @@
 function greetings (){
-    setTimeout(function () {
+    // setTimeout(function () {
 
-        console.log("hei")}, 10000)
-    
+    //     console.log("hei")}, 10000)
+    console.log("hei");
 };
 
 function goodbye (){
