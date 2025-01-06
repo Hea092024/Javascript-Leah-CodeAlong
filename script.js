@@ -15,3 +15,14 @@
 // greetings()
 // goodbye()
 
+let num1 = 6    
+let num2 = 10
+addSum(num1,num2, displaySum)
+function addSum(one, two, callback){
+    let result = one + two
+    callback(result)
+}
+
+function displaySum (sum) {
+    console.log(`til sammen er det : ${sum}`)
+}
